@@ -1,11 +1,11 @@
 // Declaring different variables of different data types
 
-let firstName = 'Asabeneh'    // first name of a person
-let lastName = 'Yetayeh'      // last name of a person
-let country = 'Finland'       // country
-let city = 'Helsinki'         // capital city
-let age = 100                 // age in years
-let isMarried = true
+let firstName = 'Jenni'    // first name of a person
+let lastName = 'Bobbitt'      // last name of a person
+let country = 'United States of America'       // country
+let city = 'Washington D.C.'         // capital city
+let age = 28                 // age in years
+let isMarried = false
 
 // Declaring variables with number values
 
